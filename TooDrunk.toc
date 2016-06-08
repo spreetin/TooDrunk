@@ -1,0 +1,15 @@
+## Interface: 60200
+## Title: |cff0000ffToo Drunk to Fight|r
+## Author: David Högberg
+## Version: 0.1
+## SavedVariables: TooDrunkDB
+## DefaultState: enabled
+
+embeds.xml
+
+main.lua
+guildbank.luq
+sync.lua
+guildchat.lua
+events.lua
+helper.lua
